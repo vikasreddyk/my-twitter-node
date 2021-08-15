@@ -1,0 +1,14 @@
+{
+  "name": "my-twitter-node",
+  "version": "1.0.0",
+  "description": "Proxy API to search tweets",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
